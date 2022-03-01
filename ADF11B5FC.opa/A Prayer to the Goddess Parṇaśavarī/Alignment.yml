@@ -1,0 +1,31 @@
+segment_sources:
+  P3F15F80D:
+    type: origin_type
+    relation: translation
+    language: en
+  P16DE2169:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  12cb63b9194043c3afa7d5c2b1f80855:
+    P3F15F80D: d84af5d8df0f4066b9d649dffe32b8ab
+    P16DE2169: 690cd8fc1a084772ad808a8f5407c38e
+  f7d5548a539b4381a84d453983450874:
+    P3F15F80D: 8da5654db3e04e148f6d9ca3ee08df7b
+    P16DE2169: 58c09b37c30f47609b5c05368c1fe5e3
+  795ab8552b2d403aa2f1689bc1d59db0:
+    P3F15F80D: 968583292fc24bc389f1473a7473909a
+    P16DE2169: bfbe156f5316406c9fdace8fed5b0843
+  5e6ff75665b64fb5bfde553b7dae87bf:
+    P3F15F80D: c8ef1980bbc74b6daf192a303d194d05
+    P16DE2169: 5e074e98c57844878d553e3d36149aef
+  95ee787f171f488dbafa698fc1d2b0f9:
+    P3F15F80D: d13117ba29604c87a38a78bfb116721d
+    P16DE2169: 68f3771d5b4c4ea88f51a705279e8b8b
+  8ceb82beca8d4f5ea80a117bfe14f260:
+    P3F15F80D: 507fc8a4e4194277a92cef8ef961641a
+    P16DE2169: 62cacfffbb1141b798e15ed75280a702
+  1e98e1a8a11f49488895d3f20e6b7d31:
+    P3F15F80D: 679a8feec851490880b22d9f802f1da7
+    P16DE2169: c93b83581ffa48ae8ea31ea21d8edf57

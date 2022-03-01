@@ -1,0 +1,19 @@
+segment_sources:
+  P3F15F80D:
+    type: origin_type
+    relation: translation
+    language: en
+  P16DE2169:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9a3c35b8917a481c958e176b92ae4433:
+    P3F15F80D: 434e5c7d057a47048819717e8af7b9ba
+    P16DE2169: eb149ae523f7487d9f656f9bf2ff528b
+  6502158e2b0049afbabb14636af5cc8c:
+    P3F15F80D: 0db13b16f2dd4b67b80d517d7a29c540
+    P16DE2169: 31e0151a45b8470f9643bf60a6ddcdf2
+  eee831fd468246a9a2e9b7822b6884de:
+    P3F15F80D: 4387897616b24f949d9b143595d0d3e0
+    P16DE2169: a20f4844ae1a413c8ff81a09948de79c
